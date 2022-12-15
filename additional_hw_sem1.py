@@ -31,7 +31,6 @@ else:
 # (W ⋀ Z) ⋁ ¬Y ⋁ (¬X ≡ ¬W)
 
 print("x y z w")
-for x
 
 
 
